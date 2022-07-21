@@ -17,5 +17,3 @@ PLANING AND EXECUTION:
 * assembly (see DEMO)
 * PCB design (status pending indefinately) 
 * 3D print Housing and physical bottons (status pending indefinately)
-
-
