@@ -4,6 +4,8 @@
   
 DEMO:
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
 PLANING PHASE:
 * use similation to build circuits and implement related codes. [(Clfick here for my circuit similation)](https://www.tinkercad.com/things/686eqoVwwqx)
 
