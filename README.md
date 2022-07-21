@@ -12,6 +12,6 @@
   <img src="https://github.com/Haody1064/Arduino_WOD_Counter/blob/main/gif_and_images/CircuitSimulation.png" />
   
 * Assembly (see DEMO below).
-* <img src="https://github.com/Haody1064/Arduino_WOD_Counter/blob/main/gif_and_images/ezgif.com-gif-maker.gif" />
+ <img src="https://github.com/Haody1064/Arduino_WOD_Counter/blob/main/gif_and_images/ezgif.com-gif-maker.gif" />
 * PCB design (status pending indefinitely) 
 * 3D print housing and physical buttons (status pending indefinitely)
