@@ -9,6 +9,7 @@ PROTOTYPE DEMO:
 
 PRODUCT DESIGN:
 
+<img src="https://github.com/Haody1064/Arduino_WOD_Counter/blob/main/gif_and_images/WOD_counter_3D_design.png" />
 
 
 PLANING PHASE:
