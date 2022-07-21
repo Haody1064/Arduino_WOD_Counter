@@ -1,6 +1,6 @@
 # Arduino_Prototyping_WOD_Counter
 ## INSPIRATION:
-  * CrossFit is military-style workouts. Often, the goal is to do as many sets and reps possible in a given time.
+  * CrossFit is a military-style workout. Often, the goal is to do as many sets and reps as possible in a given time.
   * To better focus on the workout, I came up with this device.
 
 ## PRODUCT DESIGN:
