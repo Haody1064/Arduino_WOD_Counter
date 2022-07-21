@@ -5,5 +5,5 @@
 DEMO:
 
 PLANING PHASE:
-* use similation to build circuits and implement related codes. [(Clfick here for my similation)](https://www.tinkercad.com/things/686eqoVwwqx)
+* use similation to build circuits and implement related codes. [(Clfick here for my circuit similation)](https://www.tinkercad.com/things/686eqoVwwqx)
 
