@@ -1,7 +1,7 @@
 # Arduino_Prototyping_WOD_Counter
 ## Inspiration:
-  * CrossFit is military style workouts. Often, the goal is to get as many sets and reps possible in a given time.
-  * For better focus on the workout, I came up with this device.
+  * CrossFit is military-style workouts. Often, the goal is to do as many sets and reps possible in a given time.
+  * To better focus on the workout, I came up with this device.
   
 PROTOTYPE DEMO:
 
@@ -12,8 +12,8 @@ PRODUCT DESIGN:
 <img src="https://github.com/Haody1064/Arduino_WOD_Counter/blob/main/gif_and_images/WOD_counter_3D_design.png" />
 
 PLANING AND EXECUTION:
-* use similation to build circuits and implement related codes.
+* Used a simulation to build circuits and implement codes.
   <img src="https://github.com/Haody1064/Arduino_WOD_Counter/blob/main/gif_and_images/CircuitSimulation.png" />
-* assembly (see DEMO)
-* PCB design (status pending indefinately) 
-* 3D print Housing and physical bottons (status pending indefinately)
+* Assembly (see DEMO)
+* PCB design (status pending indefinitely) 
+* 3D print housing and physical buttons (status pending indefinitely)
