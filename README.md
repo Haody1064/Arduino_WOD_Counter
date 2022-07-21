@@ -4,7 +4,9 @@
   
 DEMO:
 
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/Haody1064/Arduino_WOD_Counter/blob/main/gif_and_images/ezgif.com-gif-maker.gif)" />
+<img src="https://github.com/Haody1064/Arduino_WOD_Counter/blob/main/gif_and_images/ezgif.com-gif-maker.gif" />
+
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Haody1064/Arduino_WOD_Counter/blob/main/gif_and_images/ezgif.com-gif-maker.gif))
 
 PLANING PHASE:
 * use similation to build circuits and implement related codes. [(Clfick here for my circuit similation)](https://www.tinkercad.com/things/686eqoVwwqx)
