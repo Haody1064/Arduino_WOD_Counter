@@ -3,9 +3,9 @@
   * <p> CrossFit is military-style workouts. Often, the goal is to do as many sets and reps possible in a given time.<br>
   <p> For example: <br> 
     <p> Complete as many rounds as possible in 6 minutes of: <br>
-     <p> 12 power cleans
-     <p> 21 squats
-  * <p> To better focus on the workout, I came up with this device.
+     <p> 12 power cleans <br>
+     <p> 21 squats <br>
+  * <p> To better focus on the workout, I came up with this device.<br>
 
 ## PRODUCT DESIGN:
 
