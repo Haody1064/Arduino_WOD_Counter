@@ -7,7 +7,7 @@
       &ensp;&ensp;&ensp;&ensp;&ensp; 21 squats <br>
      &ensp;&ensp;&ensp; Say finishing 12 power cleans and 21 squats is one set, then the remainder goes to reps when time is up. <br>
   
-  * To better focus on the workout, and it can prevent heavy object landing on your smart device, so I came up with this device.<br> </P>
+  * To better focus on the workout and to avoid cracking my cellphone, so I came up with this device.<br> </P>
 
 ## PRODUCT DESIGN:
 
