@@ -1,6 +1,6 @@
 # Arduino_Prototyping_WOD_Counter
 ## INSPIRATION:
-  <p>
+  <p> <br>
   * CrossFit is military-style workouts. Often, the goal is to do as many sets and reps possible in a given time.<br>
    &ensp;&ensp; For example: <br> 
      &ensp;&ensp;&ensp; Complete as many rounds as possible in 6 minutes of: <br>
