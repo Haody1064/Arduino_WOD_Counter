@@ -11,8 +11,11 @@ PRODUCT DESIGN:
 
 <img src="https://github.com/Haody1064/Arduino_WOD_Counter/blob/main/gif_and_images/WOD_counter_3D_design.png" />
 
-PLANING PHASE:
+PLANING AND EXECUTION:
 * use similation to build circuits and implement related codes.
-* <img src="https://github.com/Haody1064/Arduino_WOD_Counter/blob/main/gif_and_images/CircuitSimulation.png" />
- 
+  <img src="https://github.com/Haody1064/Arduino_WOD_Counter/blob/main/gif_and_images/CircuitSimulation.png" />
+* assembly (see DEMO)
+* PCB design (status pending indefinately) 
+* 3D print Housing and physical bottons (status pending indefinately)
+
 
