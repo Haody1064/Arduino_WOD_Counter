@@ -1,13 +1,17 @@
 # Arduino_Prototyping_WOD_Counter
-## inspiration:
-  * From conducting CrossFit workouts. I always wanted to use a device that help keep tracking the score
+## Inspiration:
+  * CrossFit is military style workouts. Often, the goal is to get as many sets and reps possible.
+  * For better focus on the workout, I came up with this device.
   
-DEMO:
+PROTOTYPE DEMO:
 
 <img src="https://github.com/Haody1064/Arduino_WOD_Counter/blob/main/gif_and_images/ezgif.com-gif-maker.gif" />
+
+PRODUCT DESIGN:
 
 
 
 PLANING PHASE:
-* use similation to build circuits and implement related codes. [(Clfick here for my circuit similation)](https://www.tinkercad.com/things/686eqoVwwqx)
+* use similation to build circuits and implement related codes.
+ 
 
