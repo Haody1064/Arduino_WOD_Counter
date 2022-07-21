@@ -5,6 +5,7 @@
      &ensp;&ensp;&ensp; Complete as many rounds as possible in 6 minutes of: <br>
       &ensp;&ensp;&ensp;&ensp;&ensp; 12 power cleans <br>
       &ensp;&ensp;&ensp;&ensp;&ensp; 21 squats <br>
+     &ensp;&ensp;&ensp; Say finishing 12 power cleans and 21 squats is one set, then the remainder goes to reps when time is up. <br>
   
   * To better focus on the workout, I came up with this device.<br> </P>
 
