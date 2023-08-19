@@ -19,5 +19,5 @@
 * Assembly (see DEMO below). <br>
   ![](/gif_and_images/ezgif.com-gif-maker.gif)
   > pressing two buttons at the same time to reset the score counter
-* PCB design (status pending) <br>
-* 3D print housing and physical buttons (status pending)
+* PCB design (STATUS: pending) <br>
+* 3D print housing and physical buttons (STATUS: pending)
